@@ -1,0 +1,6 @@
+{
+  "title": "Cardify",
+  "description": "Generate project summary cards from ABOUT.json files.",
+  "image": "https://example.com/cardify-preview.jpg",
+  "tags": ["node", "javascript", "static-site"]
+}
