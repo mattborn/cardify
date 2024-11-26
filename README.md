@@ -10,9 +10,6 @@ Generate project summary cards from a directory structure. Each subdirectory can
 ## Usage
 
 ```bash
-# Initialize ABOUT.json files in subdirectories
-node about.js
-
-# Generate cards.json from ABOUT.json files
-node cardify.js
+# Run both about and cardify scripts from parent directory
+node cardify/run
 ```

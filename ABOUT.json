@@ -2,5 +2,7 @@
   "title": "Cardify",
   "description": "Generate project summary cards from ABOUT.json files.",
   "image": "https://example.com/cardify-preview.jpg",
-  "tags": ["node", "javascript", "static-site"]
+  "repo": "mattborn/cardify",
+  "tags": ["Later"],
+  "urls": ["cardify.cards"]
 }
