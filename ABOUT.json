@@ -3,6 +3,6 @@
   "description": "Generate project summary cards from ABOUT.json files.",
   "image": "https://example.com/cardify-preview.jpg",
   "repo": "mattborn/cardify",
-  "tags": ["Later"],
+  "tags": ["OSS", "Snooze"],
   "urls": ["cardify.cards"]
 }
