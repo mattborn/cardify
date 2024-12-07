@@ -1,8 +1,8 @@
 {
-  "title": "Cardify",
   "description": "Generate project summary cards from ABOUT.json files.",
-  "image": "https://example.com/cardify-preview.jpg",
+  "image": "",
   "repo": "mattborn/cardify",
   "tags": ["OSS", "Snooze"],
+  "title": "Cardify",
   "urls": ["cardify.cards"]
 }
