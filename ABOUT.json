@@ -1,8 +1,15 @@
 {
+  "deps": [],
   "description": "Generate project summary cards from ABOUT.json files.",
   "image": "",
   "repo": "mattborn/cardify",
-  "tags": ["OSS", "Snooze"],
+  "tags": [
+    "CLI",
+    "OSS",
+    "Snooze"
+  ],
   "title": "Cardify 🟢",
-  "urls": ["cardify.cards"]
+  "urls": [
+    "cardify.cards"
+  ]
 }

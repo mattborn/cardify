@@ -5,11 +5,12 @@ const path = require('path')
 const { getDirectories } = require('./global')
 
 const stub = {
-  title: '',
+  deps: [],
   description: '',
   image: '',
   repo: 'mattborn/',
   tags: [],
+  title: '',
   urls: [],
 }
 
